@@ -1,0 +1,3 @@
+https://fluxui.dev/apple-touch-icon-circle.png
+https://fluxui.dev/faviconcircle16x16.png
+https://fluxui.dev/faviconcircle32x32.png
